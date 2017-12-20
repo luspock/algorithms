@@ -1,2 +1,2 @@
-# algorithms
+# Algorithms
 learn algorithms
