@@ -18,3 +18,9 @@ But according to requirement 2, [1,4] is illegal; according to requirement 3,  [
 Note:
 The given area won't exceed 10,000,000 and is a positive integer
 The web page's width and length you designed must be positive integers.
+
+
+## solution
+
+Since L>=W, W is certernly small than or equal to root of the area. 
+And because the condition minimum of (L-W) is required, we can search from the root of area.
